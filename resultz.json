@@ -1,0 +1,72 @@
+{
+  "numTotalTestSuites": 1,
+  "numPassedTestSuites": 1,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 3,
+  "numPassedTests": 0,
+  "numFailedTests": 3,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1703562161969,
+  "success": false,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Gönderiler component'i render oluyor",
+          "status": "failed",
+          "title": "Gönderiler component'i render oluyor",
+          "duration": 28,
+          "failureMessages": [
+            "expected [] to not have a length of +0"
+          ],
+          "location": {
+            "line": 13,
+            "column": 53
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Arama Çubuğu'na doğru prop'lar gönderiliyor ve search yapabiliyor.",
+          "status": "failed",
+          "title": "Arama Çubuğu'na doğru prop'lar gönderiliyor ve search yapabiliyor.",
+          "duration": 7,
+          "failureMessages": [
+            "expected [] to not have a length of +0"
+          ],
+          "location": {
+            "line": 20,
+            "column": 53
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Gönderiler component'ine doğru prop'lar gönderiliyor ve like yapabiliyor.",
+          "status": "failed",
+          "title": "Gönderiler component'ine doğru prop'lar gönderiliyor ve like yapabiliyor.",
+          "duration": 3,
+          "failureMessages": [
+            "Unable to fire a \"click\" event - please provide a DOM element."
+          ],
+          "location": {
+            "line": 27,
+            "column": 11
+          }
+        }
+      ],
+      "startTime": 1703563481424,
+      "endTime": 1703563481462,
+      "status": "failed",
+      "message": "",
+      "name": "/home/projects/vitejs-vite-kej5zn/src/__tests__/index.test.jsx"
+    }
+  ]
+}
